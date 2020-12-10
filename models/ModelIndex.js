@@ -33,4 +33,4 @@ const SaveOnMongo = new Schema({
 
 
 
-module.exports = mongoose.model("Testi1", SaveOnMongo, "Testi1");
+module.exports = mongoose.model("Testi1", SaveOnMongo);
